@@ -8,6 +8,5 @@
 
 <div align="left">
 
-16, male
-interstellar >>>
+16, male.
 lua(u) programmer for 2+ years, ts for a year or so

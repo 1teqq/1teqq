@@ -8,4 +8,6 @@
 
 <div align="left">
 
-i program stuff in lua, js/ts, and c++. i am also living inside your walls.
+16, male
+interstellar >>>
+lua(u) programmer for 2+ years, ts for a year or so

@@ -2,7 +2,7 @@
 
 # iteq / ian
 
-![Twitter Follow](https://img.shields.io/twitter/follow/1teq_)
+![Twitter Follow](https://img.shields.io/twitter/follow/it3qure)
 
 <div align="left">
 

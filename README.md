@@ -2,3 +2,4 @@
 |----------------------------|---------------------------------------------------------------------------------------------|
 | 16, lua/python/javascript! | [MyAnimeList](https://myanimelist.net/profile/1teq), [Twitter](https://twitter.com/1tequre) |
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it3qure&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?it3qure=anuraghazra&layout=compact)

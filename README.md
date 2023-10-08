@@ -1,4 +1,4 @@
-cute.\n
+cute.
 avid software engineer
 
 ---

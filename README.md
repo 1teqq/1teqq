@@ -1,5 +1,5 @@
 cute.
-avid software engineer
+avid software engineer.
 
 ---
 

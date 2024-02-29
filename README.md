@@ -1,4 +1,4 @@
-- ian/ianiery
+- ian/ianiary
 - i occasionally program things
 - web & game dev
 

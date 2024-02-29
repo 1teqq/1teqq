@@ -1,6 +1,6 @@
-ian/ianiery
-i occasionally program things
-web & game dev
+- ian/ianiery
+- i occasionally program things
+- web & game dev
 
 ---
 

@@ -2,6 +2,8 @@
 - i occasionally program things
 - web & game dev
 
+- 🎂 21/3/07
+
 ---
 
 

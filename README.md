@@ -1,8 +1,8 @@
 - ian/ianiary
-- i occasionally program things
 - web & game dev
+- 17
 
-- 🎂 21/3/7
+i occasionally program things!
 
 ---
 

@@ -1,1 +1,3 @@
-i occasionally make things :3 
+# Hi, I'm Ian.
+
+I'm a self taught programmer.
